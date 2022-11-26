@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Armin</h1>
+### Hi, I'm Armin!
 
-<div id="socials">
-    <a href="https://www.linkedin.com/in/arminshahnami/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
-    </a>
-</div>
+I'm currently working on a <a href="https://github.com/ashahnami/paper-trading-application">paper trading web app</a>
+
+Languages and Tools: C/C++, Python, JavaScript, React, Git
+
+~ <a href="arminshahnami.com">arminshahnami.com</a>
