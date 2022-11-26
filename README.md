@@ -1,7 +1,7 @@
 ### Hi, I'm Armin!
 
-I'm currently working on a <a href="https://github.com/ashahnami/paper-trading-application">paper trading web app</a>
+#### I'm currently working on:
 
-Languages and Tools: C/C++, Python, JavaScript, React, Git
+[ashahnami/paper-trading-application](https://github.com/ashahnami/paper-trading-application) - Paper trading web app
 
 ~ <a href="arminshahnami.com">arminshahnami.com</a>
