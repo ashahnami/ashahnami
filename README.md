@@ -1,8 +1,4 @@
-### Hey!
-
-I'm Armin Shahnami.
-
-[![views](https://komarev.com/ghpvc/?username=ashahnami&style=flat&color=2c2c2c&label=views)](https://github.com/ashahnami)
+### Armin Shahnami
 
 Here are some of my projects:
 
